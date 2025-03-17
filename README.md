@@ -66,7 +66,7 @@
 ---
 
 ## 📚 **LeetCode & Competitive Programming**
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mohamed Jameer N?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mohamedjameer2003?theme=dark)
 
 ---
 
@@ -85,11 +85,8 @@
 
 ---
 
-## 🏆 **GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohamedjameerN&theme=dark)
 
+## 🏆 **GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mohamed-Jameer&theme=dark)
 ---
 
-🚀 **With this README, your GitHub will look professional and showcase your Java development skills effectively!**  
-
-Would you like help in **structuring your repositories** professionally too? 😊  
