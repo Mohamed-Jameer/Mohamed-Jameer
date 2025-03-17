@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Microservices, Cloud Technologies, System Design**
 - 👯 I’m looking to collaborate on **Java Backend & Spring Boot projects**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Hibernate, SQL**
-- 📫 How to reach me: **mohamedjameerN@gmail.com**
+- 📫 How to reach me: **mohamedjameer2003@gmail.com**
 - ⚡ Fun fact: **I love problem-solving & Data Structures!**
 
 ---
