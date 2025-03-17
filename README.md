@@ -41,8 +41,8 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedjameerN&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedjameerN&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Jameer&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Jameer&theme=dark" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ---
 
 ## 📚 **LeetCode & Competitive Programming**
-![LeetCode Stats](https://leetcard.jacoblin.cool/mohamedjameerN?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mohamed Jameer N?theme=dark)
 
 ---
 
