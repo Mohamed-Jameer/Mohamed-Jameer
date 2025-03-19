@@ -70,11 +70,12 @@
 
 ---
 
-## 🏆 LeetCode Daily Streak & Solved Questions**
+## 🏆 LeetCode Daily Streak & Solved Questions
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=mohamedjameer2003&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mohamedjameer2003?theme=dark&font=Karma&ext=heatmap)
 
 ---
+
 
 ## 📫 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedjameern/)
