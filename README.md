@@ -70,9 +70,9 @@
 
 ---
 
-## 🏆 LeetCode Daily Streak & Solved Questions
+## 🏆 LeetCode Daily Streak
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mohamedjameer2003?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Streak](https://leetcard.jacoblin.cool/mohamedjameer2003?theme=dark&ext=heatmap)
 
 ---
 
